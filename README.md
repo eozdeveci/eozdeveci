@@ -9,10 +9,7 @@
 - 🔭 I’m a Software Engineer specializing in building Web Applications. I work with ASP.NET Core WebAPIs following Clean Architecture Principles.  
   
 
-- 🌱 I’m currently reading about Clean Coding and Refactoring Principles, at the same time I am trying make time to learning go. I am trying Jennifer.  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🌱 I’m currently reading about Clean Coding and Refactoring Principles, at the same time I am trying make time to learning go. I am trying Jennifer.    
   
 
 - ⚡ Fun fact: I use tabs over spaces  
